@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="Flutter"/>
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.bef3c3b9.svg" height="40" width="40" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" height="40" width="40" alt="Tailwind CSS" style="background-color:#38B2AC; border-radius:50%; padding:5px;" />
 </p>
 
 ---
