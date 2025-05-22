@@ -4,7 +4,6 @@
 
 💼 Trabalho com **UX Design**, criando protótipos e experiências de usuário incríveis usando o **Figma**.
 
----
 
 ## 🛠️ Tecnologias que conheço
 
@@ -22,7 +21,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="Flutter"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/>
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.bef3c3b9.svg" height="40" width="40" alt="Tailwind CSS"/>
 </p>
 
 ---
